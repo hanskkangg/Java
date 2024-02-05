@@ -1,5 +1,4 @@
 # Java
-<br><br>
 Linked_List - This code defines a Java program that performs various operations on linked lists representing courses. The program is designed to showcase and demonstrate the use of appropriate and suitable methods for tasks like adding elements, converting to uppercase, deleting elements, reversing the list, sorting, and removing duplicates.
 <br><br>
 MetalRod - The purpose of this code is to create a program that allows the user to input lengths of metal rods, checks if these lengths are within a specified tolerance range around a target length, and calculates and displays the percentage of rods within tolerance. It uses two classes: MetalRodTester to handle user input and interaction, and MetalRod to represent and validate the properties of metal rods.
