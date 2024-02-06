@@ -1,4 +1,4 @@
-# Java
+# Java Miscellaneous Project
 SOLID_Principle - 
 The code contains several Java classes working together to manage employee data. It follows programming practices and design principles, including things like interface implementation, polymorphism, and adhering to principles like the Single Responsibility Principle (SRP) and Open-Closed Principle (OCP). It also uses concepts like dependency injection, and information expert principle, and maintains high cohesion and low coupling for simplicity and effectiveness.
 <br><br>
